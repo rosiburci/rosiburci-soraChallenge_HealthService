@@ -12,7 +12,7 @@ npm install cypress
 To run the project:
 npx cypress open
 
-Automation tests guide:
+# Automation tests guide:
 
 The tests chosen to be automated:
 
@@ -58,7 +58,7 @@ Given that the user is not authenticated
 When the user clicks in Make Appointment option on homepage
 Then the user is taken to Login page
 
-Automation framework guide:
+# Automation framework guide:
 
 The tests scenarios are located in cypress > e2e folder
 Login scenarios are located in loginTests.cy.js file
