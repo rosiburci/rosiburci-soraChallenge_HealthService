@@ -7,7 +7,7 @@ To clone the project:
 git clone git@github.com:rosiburci/soraChallenge_HealthService.git
 
 To install the project:
-npm install cypress
+npm install
 
 To run the project:
 npx cypress open
