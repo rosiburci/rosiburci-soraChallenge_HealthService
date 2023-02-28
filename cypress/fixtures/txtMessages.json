@@ -1,0 +1,7 @@
+{
+    "errorMsgLogin": "Login failed! Please ensure the username and password are valid.",
+    "appConfirmationTittle": "Appointment Confirmation",
+    "appConfirmationSubtittle": "Please be informed that your appointment has been booked as following:",
+    "hospitalReadValueChecked": "Yes",
+    "hospitalReadValueUnchecked": "No"   
+}
